@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on projects related to QA and testing.
 
-📫 How to reach me? You can contact me on GitHub or via email at bhbc22@ukr.net.
+📫 How to contact me? You can contact me on GitHub or via email at bhbc22@ukr.net.
 
 <!---
 BetaButterfly/BetaButterfly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
