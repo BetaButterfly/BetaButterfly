@@ -1,14 +1,31 @@
-Hi, I’m Lesia.
+# Про мене
 
-I’m interested in quality assurance (QA) practices and making sure software meets high standards.
+Привіт!
 
-I’m currently learning more about QA techniques and tools to improve software testing processes.
+Мене звати Леся. 
+Я захоплююсь веб-розробкою і маю навички у галузі тестування ПЗ.
+Надихаюсь і навчаюсь на онлайн курсах, та на додаткових професійних платформах.
 
-I’m looking to collaborate on projects related to QA and testing.
+## Опис особистості
 
-How to contact me? You can contact me on GitHub or via email at bhbc22@outlook.com
+Вмію швидко знаходити інформацію для вирішення проблем.
+Маю навички асертивної комунікації. Завжди відкрита до спілкування та обміну досвідом.
 
-<!---
-BetaButterfly/BetaButterfly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Мої навички
+
+- **HTML/CSS** 
+Маю базові знання HTML5 та CSS3.
+Активно використовую їх для створення веб-сайтів та набуття більшого досвіду.
+- **Тестування ПЗ**
+Маю досвід у тестуванні програмного забезпечення.
+Що допомогає мені забезпечувати належну якість продукту, та знаходити і виправляти помилки в процесі роботи.
+
+
+
+## Зв'яжіться зі мною
+
+- **Email:** bhbc22@outlook.com
+- **LinkedIn:** www.linkedin.com/in/lesia-r-041080251
+
+
+Не соромтеся зв'язатися зі мною для будь-яких питань, пропозицій чи просто для взаємодії!
