@@ -26,6 +26,7 @@
 
 - **Email:** bhbc22@outlook.com
 - **LinkedIn:** www.linkedin.com/in/lesia-r-041080251
+- **GitHub:** https://github.com/BetaButterfly
 
 
 Не соромтеся зв'язатися зі мною для будь-яких питань, пропозицій чи просто для взаємодії!
