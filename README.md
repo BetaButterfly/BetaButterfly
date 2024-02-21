@@ -1,32 +1,29 @@
-# Про мене
+# About Me
 
-Привіт!
+Hello!
 
-Мене звати Леся. 
-Я захоплююсь веб-розробкою і маю навички у галузі тестування ПЗ.
-Надихаюсь і навчаюсь на онлайн курсах, та на додаткових професійних платформах.
+My name is Lesya. 
+I am passionate about web development and have skills in software testing. 
+I am inspired and continuously learning through online courses and additional professional platforms.
 
-## Опис особистості
+## Personality Description
 
-Вмію швидко знаходити інформацію для вирішення проблем.
-Маю навички асертивної комунікації. Завжди відкрита до спілкування та обміну досвідом.
+I can quickly find information to solve problems and possess skills in assertive communication.
+I am always open to communication and sharing experiences.
 
-## Мої навички
+## My Skills
 
-- **HTML/CSS** 
-Маю базові знання HTML5 та CSS3.
-Активно використовую їх для створення веб-сайтів та набуття більшого досвіду.
-- **Тестування ПЗ**
-Маю досвід у тестуванні програмного забезпечення.
-Що допомогає мені забезпечувати належну якість продукту, та знаходити і виправляти помилки в процесі роботи.
+- **HTML/CSS**  
+  I have basic knowledge of HTML5 and CSS3.
+  I actively use them to create websites and gain more experience.
+  
+- **Software Testing**  
+  I have experience in software testing, which helps me ensure product quality and identify and fix errors during the development process.
 
-
-
-## Зв'яжіться зі мною
+## Get in Touch
 
 - **Email:** bhbc22@outlook.com
-- **LinkedIn:** www.linkedin.com/in/lesia-r-041080251
-- **GitHub:** https://github.com/BetaButterfly
+- **LinkedIn:** [www.linkedin.com/in/lesia-r-041080251](www.linkedin.com/in/lesia-r-041080251)
+- **GitHub:** [https://github.com/BetaButterfly](https://github.com/BetaButterfly)
 
-
-Не соромтеся зв'язатися зі мною для будь-яких питань, пропозицій чи просто для взаємодії!
+Feel free to contact me for any inquiries, or proposals, or to connect!
